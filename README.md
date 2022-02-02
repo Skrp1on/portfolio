@@ -1,4 +1,19 @@
-# portfolio
+# portfolio Shiraz Dawood
+## MECHATRONICS MANAGER
+
+![Shiraz 2019](https://user-images.githubusercontent.com/93227374/152180954-61ff014c-3af3-4be2-b5dd-6fb2bc7c6244.jpg)
+
+  shiraz.dawood@smiths.co.za
+                           083 789 2613
+66 Carlton Towers
+80 Somtseu Road
+North Beach 
+Durban, 4001
+Twitter : @shirazd
+Skype : shiraz.dawood80
+LinkedIn : https://www.linkedin.com/in/shirazdawood/
+
+
 Though my 15 years as Mechatronics manager/Senior Engineer : Mechatronics, I have gained leadership skills, project management skills and team management skills. 
 Through experience in Mechatronics I have obtained a vast understanding of Delphi and SQL development with various database types. As well as electronic systems development and maintenance.  Through my 12 years of experience at Smiths Manufacturing I have extensive knowledge of analogue and digital measuring equipment and other devices, and in designing electro-pneumatic circuits and other such specialized equipment. I have been involved in the setup and maintenance of the moulding plant at Smiths Manufacturing, using Engel Moulding machines and Viper Robots. 
 
